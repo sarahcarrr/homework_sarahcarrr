@@ -1,0 +1,54 @@
+body {
+	background-color:#e8f0f2;
+}
+
+h1 {
+	color: pink;
+	margin: 30px 30px 10px 30px;
+	font-family: 'Lora', serif;
+	font-size: 50px;
+}
+
+h3 {
+	color:white;
+}
+
+.pink {
+	color:pink;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+
+.float {
+	float: left;
+	padding: 30px 30px 30px 30px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.text {
+	color: #FFEB3B;
+}
+
+.navtab {
+	color: pink;
+	font-family: 'Lora', serif;
+	font-size: 16px
+	margin: 30px 0px 0px 0px;
+}
+
+#footer {
+	clear:both;
+	color: pink;
+	margin: 30px 30px 10px 30px;
+	font-family: 'Lora', serif;
+	font-size: 30px;
+
+}
