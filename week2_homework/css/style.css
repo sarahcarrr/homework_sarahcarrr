@@ -1,0 +1,88 @@
+.header {
+	border: 1px solid red;
+	padding: 2px;
+	height:75px;
+}
+
+.menu {
+	border: 1px solid black;
+	padding: 15px;
+	height:70px;
+}
+
+.banner {
+	border: 1px solid red;
+	padding: 10px 60px 10px 60px;
+	height: 200px;
+}
+
+.menuitem {
+	border: 1px solid red;
+	margin: 5px;
+}
+
+.recommended, .showmore {
+	border: 1px solid red;
+	height:20px;
+}
+
+#videobox {
+	border: 1px solid red;
+	padding:10px;
+	height:500px;
+	background-color: white;
+}
+
+.row1, .row2 {
+	border: 1px solid red;
+	height:150px;
+	margin: 10px;
+}
+
+.video {
+	border: 1px solid red;
+	height:139px;
+	float: right;
+	margin:5px;
+}
+
+.vidtxt {
+	border:1px solid red;
+	padding:3px;
+	width:120px;
+	height:30px;
+
+}
+
+.vidvid {
+	border:1px solid red;
+	padding:0px;
+	height:80px;
+	width:170px;
+}
+
+.headerburger {
+	height:40px;
+	width:40px;
+	padding:0px;
+}
+
+.youtube {
+	height:40px;
+	width:40px;
+	padding:0px;
+	float:right;
+}
+
+a {
+	height:60px;
+	width:170px;
+	padding: 0px;
+}
+
+
+
+
+
+
+
