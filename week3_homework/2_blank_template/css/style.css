@@ -1,0 +1,124 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @You in DTLA
+*/
+.headerbg {
+	background: url(../images/header_bg.jpg);
+	height:700px;
+}
+
+.text {
+	font-family: 'http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,600,700,800' rel='stylesheet'
+	color: white;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-bottom: 130px;
+}
+
+h3, li {
+	font-family:'Open Sans', sans-serif;
+	color:#6f7072;
+	font-size: 26px;
+	font-weight: 300;
+}
+
+h1 {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.button {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
+.benefitstitle {
+	font-size: 20px;
+	font-weight: 800;
+	padding: 60px 30px 0px 30px;
+}
+
+.benefits {
+	padding: 20px 30px 30px 30px;
+}
+
+li {
+	list-style-type: disc;
+}
+
+.list {
+	margin-left: 80px;
+	margin-bottom: 80px;
+}
+
+p {
+	font-size: 20px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.testbg {
+	background: url(../images/testimonial_bg.jpg);
+	height:200px;
+}
+
+.testtext {
+	font-family:'Open Sans', sans-serif;
+	color:white;
+	font-size: 20px;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	padding-top: 80px;
+}
+
+.amanda {
+	text-align: center;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.yellow {
+	background-color: yellow;
+	height: 150px;
+}
+
+.end {
+	background-color: black;
+	height:350px;
+}
+
+h4 {
+	color: yellow;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.social {
+	padding-top:30px;
+	padding-left: 100px;
+}
+
+
