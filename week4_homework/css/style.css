@@ -1,0 +1,84 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+	background-image: url("../images/redpot.jpg");
+	background-repeat: no-repeat;
+	height: 500px;
+	max-width: 100%;
+	height:500px;
+	color: #edc2ed;
+	text-align: center;
+}
+
+.containerText {
+	padding-top: 60px;
+}
+
+.btn-primary {
+	background: #c64f4f;
+	margin-top: 30px;
+	outline-color: none;
+}
+
+.btn-success {
+	background: #c64f4f;
+}
+
+.btn-default {
+	outline: none;
+}
+
+.col-xs-12 {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.navbar-brand {
+	text-align: center;
+	align-items: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+li {
+	color:white;
+	float: right;
+}
+
+.navbar-nav li {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+ul {
+	list-style: none;
+}
+
+.image {
+	padding-right: 10px;
+	padding-right: 10px;
+}
+
+.dropDown {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
+
+.toYouText p{
+	color:blue;
+	display: none;
+}
+
+
+
+
+
+
+
