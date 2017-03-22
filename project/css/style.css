@@ -1,0 +1,18 @@
+.title {
+	font-family: 'Yantramanav', sans-serif;
+	color: pink;
+	font-size: 300px;
+	border:1px;
+	border-color: gray;
+}
+
+.social, .login {
+	padding-top: 60px;
+	border:1px;
+	border-color: gray;
+}
+
+#header {
+	border:1px;
+	border-color: gray;
+}
