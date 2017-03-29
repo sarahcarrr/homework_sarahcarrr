@@ -2,17 +2,82 @@
 	font-family: 'Yantramanav', sans-serif;
 	color: pink;
 	font-size: 300px;
-	border:1px;
+	border:5px;
 	border-color: gray;
+	border-style: solid;
 }
 
-.social, .login {
-	padding-top: 60px;
-	border:1px;
-	border-color: gray;
+.social {
+	padding-top: 200px;
+	border:20px;
+	border-color: black;
+	text-align: center;
+}
+
+.login {
+	padding-top: 200px;
+	border:20px;
+	border-color: black;
+	text-align: center;
 }
 
 #header {
-	border:1px;
+	border:5px;
 	border-color: gray;
+	margin:200px;
+}
+
+.menu {
+	float: none;
+	text-align:center;
+	padding-left: 500px;
+}
+
+.breadPic {
+	background-color: gray;
+	height:500px;
+	width:500px;
+	padding:30px;
+}
+
+.containerText {
+	font-family: 'Yantramanav', sans-serif;
+	font-size: 60px;
+
+}
+
+.largeImg {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.medImg {
+	float:right;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.smallImg {
+	float:right;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.jumbotron {
+	margin-top: 30px;
+	font-family: 'Yantramanav', sans-serif;
+}
+
+#footer {
+	margin: 200px;
+}
+
+.about {
+	text-align: center;
+	padding-top: 200px;
+}
+
+#sign {
+	text-align: center;
+	margin-bottom: 10px;
 }
